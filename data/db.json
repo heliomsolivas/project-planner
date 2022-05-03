@@ -10,7 +10,13 @@
       "id": 2,
       "title": "Make marketing email",
       "details": "Lorem ipsum",
-      "complete": false
+      "complete": true
+    },
+    {
+      "title": "Do something new 2",
+      "details": "Do something new and push to github 2",
+      "complete": false,
+      "id": 3
     }
   ]
 }
